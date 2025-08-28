@@ -1,21 +1,28 @@
-Date: Thu, 28 Aug 2025 12:22:12 +0000
+Origin: AndroidIDE Rv2 Packages
+Label: AndroidIDE Rv2 Packages
+Suite: stable
+Codename: stable
+Date: $(date -Ru)
+Architectures: aarch64
+Components: main
+Description: AndroidIDE Development Tools Repository
 MD5Sum:
- de21b2b7dfbc5fd55f6f3ede3f246f1d               38 Release
+ ece7578aa4bfd4358e73ecc0b004af33              205 Release
  9b740514cd9faee935484024a05e92a5              543 main/binary-aarch64/Packages
  dcde0b86db108ab308ce4e8a6589eed5              406 main/binary-aarch64/Packages.gz
  ef1816b0af716eade9b60edc7c9d09e9             1204 main/binary-aarch64/Release
 SHA1:
- 2456a1b348646680a889043005a1a3ebecdc001c               38 Release
+ 81485c43d313e64e4457e6301a75cbbb45c7b96e              205 Release
  1fa7c35b93444fe98f6f38ff6d405e77c19d71d9              543 main/binary-aarch64/Packages
  eafeb72b550b52cb1b1126690ba240041be23e5f              406 main/binary-aarch64/Packages.gz
  735a12c0a6d228a771aaa70e0b45d837c01de1f9             1204 main/binary-aarch64/Release
 SHA256:
- 609793bb0ab27061fcb28b1f72b15d08ca7a129867171569e60216d8c75fa36d               38 Release
+ fdaaca69133f23c1403bc7f304e41f7fbbd889a4f8eb731b22fa85986e1dcad2              205 Release
  6027b5de80b803ade7dc9b66d9178bc2a4ab7c5404a7fc3d503e9c4d16cd8cf8              543 main/binary-aarch64/Packages
  1cd91637dee4cb0f6eaa4345d4926ab9c4b2b18da0c91efe277282a37bfb8848              406 main/binary-aarch64/Packages.gz
  ceef6f8c56734248838276e456ea587683e4aa1362ed4f22ac59236dfafbce11             1204 main/binary-aarch64/Release
 SHA512:
- 75040ba91b4ea9a1babdb66d6c7baf0d33a4a1dee867eb5e8c32f5dde7f015a9c0114b3d7fa6c234c777b43934a15777f00c71b913e3007cf03250726206eb61               38 Release
+ 64391d70392e056efafd135b2f7ff2e9f8c1f8837cc9f9a56f443eb85307ec86a2550e8075190430e25beeea994acfc04b1ed0efe9ed020443284d8b884c1e30              205 Release
  ea7fbc29e4e71ed430c9292652d20fd9535221477a98257725fcfbbdbb0e2d321806603514ab14b391153c18a94eddc795d27200879ca1a7529d22663ca4d07b              543 main/binary-aarch64/Packages
  5dad9929c595a27e1561246927bc2972e37f088dbb3f21ae93720be20156f8795929a42f37b998ee41f516bd901b012aea251fddbb0ed1fb19839511271103b2              406 main/binary-aarch64/Packages.gz
  35b755e315fd2a63178c4c4a47eda964a755765da8f4134308ec99870f1b69ece0c4cfd9b709855a5a790c9c275a50054b7d9f734b853d6d32193b73184e49d5             1204 main/binary-aarch64/Release

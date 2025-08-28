@@ -2,3 +2,4 @@ append.sh
 fix.sh
 environment/
 cleanup.sh
+fix-release-distribution.sh

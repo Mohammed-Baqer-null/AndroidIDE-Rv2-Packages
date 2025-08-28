@@ -1,17 +1,22 @@
-Date: Thu, 28 Aug 2025 12:22:12 +0000
+Archive: stable
+Component: main
+Origin: AndroidIDE Rv2 Packages
+Label: AndroidIDE Rv2 Packages
+Architecture: aarch64
+Date: Thu, 28 Aug 2025 12:31:51 +0000
 MD5Sum:
  9b740514cd9faee935484024a05e92a5              543 Packages
  dcde0b86db108ab308ce4e8a6589eed5              406 Packages.gz
- de21b2b7dfbc5fd55f6f3ede3f246f1d               38 Release
+ 893130298774f2aad23cd32e5eee382b              117 Release
 SHA1:
  1fa7c35b93444fe98f6f38ff6d405e77c19d71d9              543 Packages
  eafeb72b550b52cb1b1126690ba240041be23e5f              406 Packages.gz
- 2456a1b348646680a889043005a1a3ebecdc001c               38 Release
+ 7c79cde66256291dc72301c5981171b6952b54fc              117 Release
 SHA256:
  6027b5de80b803ade7dc9b66d9178bc2a4ab7c5404a7fc3d503e9c4d16cd8cf8              543 Packages
  1cd91637dee4cb0f6eaa4345d4926ab9c4b2b18da0c91efe277282a37bfb8848              406 Packages.gz
- 609793bb0ab27061fcb28b1f72b15d08ca7a129867171569e60216d8c75fa36d               38 Release
+ 4a83bcebb4464b5107c6921c882f024c0e7524c466a1ea287efb1c9b40521b4c              117 Release
 SHA512:
  ea7fbc29e4e71ed430c9292652d20fd9535221477a98257725fcfbbdbb0e2d321806603514ab14b391153c18a94eddc795d27200879ca1a7529d22663ca4d07b              543 Packages
  5dad9929c595a27e1561246927bc2972e37f088dbb3f21ae93720be20156f8795929a42f37b998ee41f516bd901b012aea251fddbb0ed1fb19839511271103b2              406 Packages.gz
- 75040ba91b4ea9a1babdb66d6c7baf0d33a4a1dee867eb5e8c32f5dde7f015a9c0114b3d7fa6c234c777b43934a15777f00c71b913e3007cf03250726206eb61               38 Release
+ 344d5d5f3842378fe9c59ae772f8e04f02e5ae34e88e92fd3350fe5258494836197593fb438bc712f7eeac5f3e66a82bedd9e6a7c5f58247b5c644235965b230              117 Release
