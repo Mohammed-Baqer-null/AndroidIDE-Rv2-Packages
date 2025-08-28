@@ -1,29 +1,21 @@
-Archive: stable
-Codename: stable
-Components: main
-Date: $(date -Ru)
-Label: AndroidIDE-Rv2 Packages
-Origin: AndroidIDE-Rv2
-Suite: stable
-Architectures: aarch64
+Date: Thu, 28 Aug 2025 12:22:12 +0000
 MD5Sum:
- 9b740514cd9faee935484024a05e92a5 543 main/binary-amd64/Packages
- fa506b70f61b9329ff4228b209a8c15a 406 main/binary-amd64/Packages.gz
- 054b4c8e8c2860b5f915805b9ed544bf 1204 main/binary-amd64/Release
- 9b740514cd9faee935484024a05e92a5 543 main/binary-aarch64/Packages
- 5244a3fae571e75e096bea7e664ce412 406 main/binary-aarch64/Packages.gz
- ff849300ed419d7e06ca6ceaa1a18ac6 519 main/binary-aarch64/Release
+ de21b2b7dfbc5fd55f6f3ede3f246f1d               38 Release
+ 9b740514cd9faee935484024a05e92a5              543 main/binary-aarch64/Packages
+ dcde0b86db108ab308ce4e8a6589eed5              406 main/binary-aarch64/Packages.gz
+ ef1816b0af716eade9b60edc7c9d09e9             1204 main/binary-aarch64/Release
 SHA1:
- 1fa7c35b93444fe98f6f38ff6d405e77c19d71d9 543 main/binary-amd64/Packages
- 6520647cc18b6486c46dd7ae248121b730b35efd 406 main/binary-amd64/Packages.gz
- f5b1df5d14033ff0aeb95f15d29549dec9c67e22 1204 main/binary-amd64/Release
- 1fa7c35b93444fe98f6f38ff6d405e77c19d71d9 543 main/binary-aarch64/Packages
- 80b5a6ead2e5b4c2e5ef87f1baed5c029f200b0c 406 main/binary-aarch64/Packages.gz
- 3c3a967435ad76ff60a7c35cbcffcc92ac8b77cb 519 main/binary-aarch64/Release
+ 2456a1b348646680a889043005a1a3ebecdc001c               38 Release
+ 1fa7c35b93444fe98f6f38ff6d405e77c19d71d9              543 main/binary-aarch64/Packages
+ eafeb72b550b52cb1b1126690ba240041be23e5f              406 main/binary-aarch64/Packages.gz
+ 735a12c0a6d228a771aaa70e0b45d837c01de1f9             1204 main/binary-aarch64/Release
 SHA256:
- 6027b5de80b803ade7dc9b66d9178bc2a4ab7c5404a7fc3d503e9c4d16cd8cf8 543 main/binary-amd64/Packages
- f20d7d4629199cf5601f72d29c01f4f321a306e744b458dcb84adfaa39b45548 406 main/binary-amd64/Packages.gz
- 6c35f579c4c7013fb4f7c852dca86a8dd698429c4e8b6af9a6823013df2802ac 1204 main/binary-amd64/Release
- 6027b5de80b803ade7dc9b66d9178bc2a4ab7c5404a7fc3d503e9c4d16cd8cf8 543 main/binary-aarch64/Packages
- 59a2ee025ec843180cf9b0ac42e3ed36decdb402b655d5eca2ff2e26955c61af 406 main/binary-aarch64/Packages.gz
- 510d797a4d749ea93a3e268973338ce78ffeed894780abfcf69ecdc9aae3730c 519 main/binary-aarch64/Release
+ 609793bb0ab27061fcb28b1f72b15d08ca7a129867171569e60216d8c75fa36d               38 Release
+ 6027b5de80b803ade7dc9b66d9178bc2a4ab7c5404a7fc3d503e9c4d16cd8cf8              543 main/binary-aarch64/Packages
+ 1cd91637dee4cb0f6eaa4345d4926ab9c4b2b18da0c91efe277282a37bfb8848              406 main/binary-aarch64/Packages.gz
+ ceef6f8c56734248838276e456ea587683e4aa1362ed4f22ac59236dfafbce11             1204 main/binary-aarch64/Release
+SHA512:
+ 75040ba91b4ea9a1babdb66d6c7baf0d33a4a1dee867eb5e8c32f5dde7f015a9c0114b3d7fa6c234c777b43934a15777f00c71b913e3007cf03250726206eb61               38 Release
+ ea7fbc29e4e71ed430c9292652d20fd9535221477a98257725fcfbbdbb0e2d321806603514ab14b391153c18a94eddc795d27200879ca1a7529d22663ca4d07b              543 main/binary-aarch64/Packages
+ 5dad9929c595a27e1561246927bc2972e37f088dbb3f21ae93720be20156f8795929a42f37b998ee41f516bd901b012aea251fddbb0ed1fb19839511271103b2              406 main/binary-aarch64/Packages.gz
+ 35b755e315fd2a63178c4c4a47eda964a755765da8f4134308ec99870f1b69ece0c4cfd9b709855a5a790c9c275a50054b7d9f734b853d6d32193b73184e49d5             1204 main/binary-aarch64/Release
