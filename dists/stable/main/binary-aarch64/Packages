@@ -1,0 +1,16 @@
+Package: helloworld
+Version: 1.0-1
+Architecture: aarch64
+Maintainer: AndroidIDE Developer <dev@androidide.com>
+Depends: libc++
+Filename: pool/main/helloworld_1.0-1_aarch64.deb
+Size: 17736
+MD5sum: 9235cd47af692fa47c6152ed0ddca11f
+SHA1: f5b0157ba95a36cb73651a9844cee296172358e9
+SHA256: 5af82b6401451c2948d67326fa81036f30d72eb023aef3ec2143014f88ef06e6
+Section: utils
+Priority: optional
+Description: Simple Hello World C++ program
+ A basic C++ program that prints "Hello World" for testing
+ AndroidIDE package repository functionality in Termux.
+

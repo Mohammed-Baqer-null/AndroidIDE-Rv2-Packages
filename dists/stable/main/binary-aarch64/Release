@@ -1,0 +1,15 @@
+Archive: stable
+Component: main
+Origin: AndroidIDE-Rv2
+Label: AndroidIDE-Rv2 Packages
+Architecture: aarch64
+Date: $(date -Ru)
+MD5Sum:
+ 9b740514cd9faee935484024a05e92a5 543 Packages
+ 5244a3fae571e75e096bea7e664ce412 406 Packages.gz
+SHA1:
+ 1fa7c35b93444fe98f6f38ff6d405e77c19d71d9 543 Packages
+ 80b5a6ead2e5b4c2e5ef87f1baed5c029f200b0c 406 Packages.gz
+SHA256:
+ 6027b5de80b803ade7dc9b66d9178bc2a4ab7c5404a7fc3d503e9c4d16cd8cf8 543 Packages
+ 59a2ee025ec843180cf9b0ac42e3ed36decdb402b655d5eca2ff2e26955c61af 406 Packages.gz

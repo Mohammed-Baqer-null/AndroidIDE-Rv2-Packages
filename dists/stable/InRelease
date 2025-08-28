@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Archive: stable
+Codename: stable
+Components: main
+Date: $(date -Ru)
+Label: AndroidIDE-Rv2 Packages
+Origin: AndroidIDE-Rv2
+Suite: stable
+Architectures: aarch64
+MD5Sum:
+ 9b740514cd9faee935484024a05e92a5 543 main/binary-amd64/Packages
+ fa506b70f61b9329ff4228b209a8c15a 406 main/binary-amd64/Packages.gz
+ 054b4c8e8c2860b5f915805b9ed544bf 1204 main/binary-amd64/Release
+ 9b740514cd9faee935484024a05e92a5 543 main/binary-aarch64/Packages
+ 5244a3fae571e75e096bea7e664ce412 406 main/binary-aarch64/Packages.gz
+ ff849300ed419d7e06ca6ceaa1a18ac6 519 main/binary-aarch64/Release
+SHA1:
+ 1fa7c35b93444fe98f6f38ff6d405e77c19d71d9 543 main/binary-amd64/Packages
+ 6520647cc18b6486c46dd7ae248121b730b35efd 406 main/binary-amd64/Packages.gz
+ f5b1df5d14033ff0aeb95f15d29549dec9c67e22 1204 main/binary-amd64/Release
+ 1fa7c35b93444fe98f6f38ff6d405e77c19d71d9 543 main/binary-aarch64/Packages
+ 80b5a6ead2e5b4c2e5ef87f1baed5c029f200b0c 406 main/binary-aarch64/Packages.gz
+ 3c3a967435ad76ff60a7c35cbcffcc92ac8b77cb 519 main/binary-aarch64/Release
+SHA256:
+ 6027b5de80b803ade7dc9b66d9178bc2a4ab7c5404a7fc3d503e9c4d16cd8cf8 543 main/binary-amd64/Packages
+ f20d7d4629199cf5601f72d29c01f4f321a306e744b458dcb84adfaa39b45548 406 main/binary-amd64/Packages.gz
+ 6c35f579c4c7013fb4f7c852dca86a8dd698429c4e8b6af9a6823013df2802ac 1204 main/binary-amd64/Release
+ 6027b5de80b803ade7dc9b66d9178bc2a4ab7c5404a7fc3d503e9c4d16cd8cf8 543 main/binary-aarch64/Packages
+ 59a2ee025ec843180cf9b0ac42e3ed36decdb402b655d5eca2ff2e26955c61af 406 main/binary-aarch64/Packages.gz
+ 510d797a4d749ea93a3e268973338ce78ffeed894780abfcf69ecdc9aae3730c 519 main/binary-aarch64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iJEEARYKADkWIQQ58HTX8GYRFxeEPGAFAFcIg2NzggUCaLBHjxsUgAAAAAAEAA5t
+YW51MiwyLjUrMS4xMSwzLDIACgkQBQBXCINjc4K++gD/fRaHc7wGx6TYD5cCbA7m
+aDR9eaidh4cLBkMQtChYbusA/3poQvEp/Y7Jivd1aoDjrUaT3Cf+aas1aq8gInxh
+8ZIO
+=LH36
+-----END PGP SIGNATURE-----
